@@ -1,0 +1,2 @@
+My first line of file handling in cpp.
+This line is for file reading.

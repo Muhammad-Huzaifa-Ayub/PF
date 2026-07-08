@@ -1,0 +1,55 @@
+
+2D Array basics (5 sub tasks, 15 marks each) 
+
+1. Create a two dimensional array to store mean marks for eight semesters and five 
+programs. Then directly enter mean marks as random values between 52.60 and 73.92. 
+Just note that the semesters are numbered from 1 to 8, while labels of the programs are 
+CS, CY, IT, DS, SE.  
+
+You need to create it using conventional as well as in modern CPP styles, in comments. 
+You may use any style of your own choice, in coming sub tasks. 
+
+2. Write a function that displays the data in the array with semester as columns with proper 
+rows and columns headings. 
+
+3. Write a function that outputs the maximum of each program. 
+
+4. Write a function that outputs the minimum of each semester. 
+
+5. Write a function that displays the data in the array with programs as columns, with 
+average of each row at its right and average of each column at its bottom.
+
+
+
+
+
+3D Array basics (1 sub tasks, 25 marks each) 
+
+We need to store the data for a complete year for the 9 outlets of a bakery chain, as month wise 
+count of visitors. The count is further discriminated against as gender. You are restricted to 
+creating a three dimensional array required with sizes of its dimensions as 2, 9, and 12, and 
+populate with appropriate counts as random values. You need to create it using conventional as 
+well as in modern CPP styles, in comments. You may use any style of your own choice, in coming 
+sub tasks. 
+
+Now your main task is to create a function that takes gender and month as parameters along 
+with the array name, etc and generate the output as follows: 
+
+
+Gender: Male or Female 
+Month: 1 or 2 or 3 or ……… or 12 
+Outlet # Month’s count Progress  
+0 
+5486 Above average  
+1 
+2 
+.    
+.    
+12 
+7743 Above average   
+3253 Below average  
+7292 Above average  
+
+
+Month’s count is only for specific gender and month and Above or Below is decided on month 
+wise average of 12 months data, again in the specified gender. 
