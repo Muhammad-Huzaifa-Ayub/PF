@@ -1,0 +1,37 @@
+
+If there are 35 heads and 94 legs among the chickens and rabbits on a farm. How many rabbits 
+and how many chickens do we have? Hint: A loop may be used to iterate all possible solutions. 
+
+Create a function to compute and return the percentage of data in array above above its 
+average. 
+
+Write a program that computes the value of a+aa+aaa+aaaa+…+aaa…a with a given digit as 
+the value of a, without using any cmath or other library functions. Note that 
+a+aa+aaa+aaaa+aaa…a is same as a1+a2+a3+…aa. 
+
+A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, 
+DOWN, LEFT and RIGHT with a given steps. So, you can provide instructions, as example, to 
+robot as follows: U 2 L 3 U 2 R 2 U 6 D 10 L 3 to move 2 steps up, then 3 steps left, then 2 steps 
+up, then 2 steps right, then 6 steps up, then 10 steps down, then lastly 3 steps left. These steps 
+may be input in several line as per programmers convince. 
+You have to write a program to compute the distance from current position after a 
+sequence of movement and original point. 
+
+In a very large sized array, the values are repeated between 21 and 30, you have to compute 
+frequency of each value into an array of size 10. 
+
+Write a program to compute and print the nth value of the Fibonacci Sequence with a given n 
+input by console. 
+
+Write a function to search for the value closest to a given n input by console. 
+
+Write a program to find the length of the longest contiguous subarray whose sum is exactly a 
+given k input by console. 
+
+Please write a program to find the kth ranked value in an array of size n, where n >= k, without 
+sorting array. The kth ranked value is the value at kth location in array, if it is sorted. 
+
+Please write a program to remove duplicates in a sorted array of dynamic size with data size 
+variable. The 15 sized array {0,0,0,3,4,4,5,8,8,8,8,8,8,9,9,9,4,6,34,32,32,54,34,54,…} should 
+be a 6 sized array as {0,3,4,5,8,9,5,8,8,8,8,8,8,9,9,9,4,6,34,32,32,54,34,54,…} after removal of 
+duplicates in data.
